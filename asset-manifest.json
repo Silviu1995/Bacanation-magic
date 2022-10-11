@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Bacanation-spell/static/css/main.11f3d37c.css",
+    "main.js": "/Bacanation-spell/static/js/main.6dd19bc3.js",
+    "static/media/magic.png": "/Bacanation-spell/static/media/magic.427cd2e834d5e2d8406d.png",
+    "index.html": "/Bacanation-spell/index.html",
+    "main.11f3d37c.css.map": "/Bacanation-spell/static/css/main.11f3d37c.css.map",
+    "main.6dd19bc3.js.map": "/Bacanation-spell/static/js/main.6dd19bc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11f3d37c.css",
+    "static/js/main.6dd19bc3.js"
+  ]
+}
